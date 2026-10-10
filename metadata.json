@@ -1,0 +1,6 @@
+{
+  "name": "Apex Panel Hub - Premium Gaming App Center",
+  "description": "Premium 2-page gaming panel store and official download center for battle royale sensitivity, macros, and calibration tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
